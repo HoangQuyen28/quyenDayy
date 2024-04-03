@@ -27,7 +27,7 @@ noButton.addEventListener("click", function () {
 });
 
 function handleYesClick() {
-  titleElement.innerHTML = "ok Ngọc =))))";
+  titleElement.innerHTML = "ok Thư ᥫᩣ";
   buttonsContainer.classList.add("hidden");
   changeImage("yes");
 }
@@ -43,10 +43,10 @@ function resizeYesButton() {
 function generateMessage(noCount) {
   const messages = [
     "No",
-    "Đi Đi?",
-    "cri cri",
-    "Djt me may ",
-    "Het su lua chon roi",
+    "Đi mờ",
+    "đồng ý",
+    "hic",
+    "bực rồi đấy",
     "<---",
   ];
 
